@@ -1,0 +1,6 @@
+{
+  "name": "北京市东城区清朗文娱产业纠纷解决中心",
+  "description": "北京市东城区清朗文娱产业纠纷解决中心官方网站，专业、规范、高效、保密的文化娱乐产业纠纷多元化解与在线调解综合服务平台。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
